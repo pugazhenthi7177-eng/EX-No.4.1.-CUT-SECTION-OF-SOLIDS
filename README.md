@@ -1,5 +1,5 @@
 # EX No.4.1. CUT SECTION OF SOLIDS
-## DATE:21/10/26
+## DATE:21/10/2026
 
 ## AIM
 To create the solid model from given drawing and section the solid model
@@ -42,15 +42,45 @@ To create the solid model from given drawing and section the solid model
 
 ## OUTPUT:
 <img width="1492" height="945" alt="Screenshot 2026-11-18 000203" src="https://github.com/user-attachments/assets/f82f1742-d50e-4045-a8ed-448e920ff986" />
+
+
+
+
+
 <img width="1486" height="923" alt="Screenshot 2026-11-18 000220" src="https://github.com/user-attachments/assets/63cba5b2-02bb-400b-a05b-d40308187755" />
+
+
+
+
 <img width="1486" height="859" alt="Screenshot 2026-11-18 000324" src="https://github.com/user-attachments/assets/9063ecf6-06fa-49c7-8fbe-3f776e4cd19b" />
+
+
+
+
+
 <img width="1489" height="862" alt="Screenshot 2026-11-18 000343" src="https://github.com/user-attachments/assets/a7fb419a-60e3-427a-9736-19d6016dc67a" />
+
+
+
+
+
+
 <img width="1485" height="904" alt="Screenshot 2026-11-18 000418" src="https://github.com/user-attachments/assets/9aa59727-8348-403e-9820-ab93289820c3" />
+
+
+
+
 
 
 <img width="1920" height="1080" alt="Screenshot (49)" src="https://github.com/user-attachments/assets/8a084ac7-84f7-4fea-abc5-f74d5bd3cc78" />
 
+
+
+
+
 <img width="1920" height="1080" alt="Screenshot (48)" src="https://github.com/user-attachments/assets/0c04e948-d4df-439d-8f62-6e39bcb4a7f0" />
+
+
 
 <img width="1920" height="1080" alt="Screenshot (55)" src="https://github.com/user-attachments/assets/c440b099-883f-4d11-a3a4-56c2796c63fd" />
 
